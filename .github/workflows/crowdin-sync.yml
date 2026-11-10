@@ -23,7 +23,7 @@ jobs:
         uses: crowdin/github-action@v2
         with:
           upload_sources: true
-          upload_translations: false
+          upload_translations: true # <--- 关键修正：允许上传已有翻译
           download_translations: false
           project_id: ${{ secrets.CROWDIN_PROJECT_ID }}
           token: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}

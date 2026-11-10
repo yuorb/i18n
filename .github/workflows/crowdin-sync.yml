@@ -1,0 +1,41 @@
+name: Crowdin Sync
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'locales/en/**'
+  schedule:
+    - cron: '0 0 * * *' # 每天 UTC 0 点自动拉取翻译
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Upload Sources to Crowdin
+        if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+        uses: crowdin/github-action@v2
+        with:
+          upload_sources: true
+          upload_translations: false
+          download_translations: false
+          project_id: ${{ secrets.CROWDIN_PROJECT_ID }}
+          token: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+
+      - name: Download Translations from Crowdin
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        uses: crowdin/github-action@v2
+        with:
+          upload_sources: false
+          upload_translations: false
+          download_translations: true
+          create_pull_request: true
+          localization_branch_name: 'crowdin-translations'
+          pull_request_title: 'chore: sync translations from Crowdin'
+          project_id: ${{ secrets.CROWDIN_PROJECT_ID }}
+          token: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}

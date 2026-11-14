@@ -43,10 +43,6 @@
   "983ed95755": "<IthkuilWord word=\"čhoňčhiň\"><del>choňčhiň</del> <ins>choňčhiň</ins></IthkuilWord>",
   "ebefa8d87c": "<IthkuilWord word=\"čhëňtu\"><del>chëňtu</del><ins>chëňtu</ins></IthkuilWord>",
   "817505c22b": "上面那些使用<del>内嵌的</del><ins>联态的</ins>载词干的例子，也可以改用载小词 *hle'i*，或 <Term code=\"spf\" /> 言域小词 *hi* 来表达，即 *bwaloufta hi mediterra*、*bwalëufta hi balt*、*bwaleifta hi azof*、*bwalëufta hi karíb* 等。",
-  "2b236bd0ab": "<IthkuilWord word=\"hluséi-bwala pasífika\" /><br>\n      或<br>\n      <IthkuilWord word=\"bwala hi pasífika\" />",
-  "273d9f3b84": "<IthkuilWord word=\"hluséi-bwala atlantis\" /><br>\n      或<br>\n      <IthkuilWord word=\"bwala hi atlantis\" />",
-  "7600bf3207": "<IthkuilWord word=\"hluséi-bwala indus\" /><br>\n      或<br>\n      <IthkuilWord word=\"bwala hi indus\" />",
-  "e7f360f02b": "<IthkuilWord word=\"hluséi-bwala arktos\" /><br>\n      OR<br>\n      <IthkuilWord word=\"bwala hi arktos\" />",
   "02d110dd77": "这些前面带有载体词干形式 <IthkuilWord word=\"usarç\" /> 或 <IthkuilWord word=\"usarça\" />：",
   "eeb87a9138": "<IthkuilWord word=\"usarça\" /> 非洲",
   "099bd5294a": "<IthkuilWord word=\"usarça\" /> 南极",
@@ -400,5 +396,6 @@
   "976e40e34a": "若指大型且大部分为内陆的咸水海（如地中海、黑海、亚速海），这些名称前会加上 *hluséi-bwaleuxa*（“较小的、以……命名的海洋”）；若指更大的海或洋的一部分或子部分（如波罗的海、南中国海、北海），则加上 *hlusé-bwalafta*（“以……命名的海洋分区”，使用 <Affix id=\"por\" /> 词缀 -**ft**-）。",
   "9aad77d11e": "不与世界大洋相连的咸水湖（如里海、咸海）使用 -**BW**- ‘咸水湖’的词干三，而非词干一，并与适当的 <Affix id=\"siz\" /> 词缀 -**x**- 结合使用。淡水湖使用 -**LZ**- 的词干一，而淡水内陆海则使用 -**LZ**- 的词干三。",
   "ac57e41163": "以下列表按字母数字顺序排列",
-  "e7456706e7": "-NTŇ-"
+  "e7456706e7": "-NTŇ-",
+  "1d00e7dce6": "或"
 }

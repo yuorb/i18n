@@ -28,11 +28,5 @@
   "a5ed1c0a9a": "In addition to the Referential affixes shown in [Sec. 9.1](09#Sec9_1), the C₁ slot of the Single- or Dual-Referent Referential in [Sec. 9.2](09#Sec9_2) may also take any of the `Cp` Suppletive Adjunct affixes (**hl-, hm-, hn-, hň-**), thus allowing these adjuncts the same scope and flexibility as Referentials in terms of showing Specification, `VxCs` affixes, and case-stacking for a following proper noun, foreign word/phrase, or quote.",
   "766ff08ac2": "When using a `Cp` Suppletive Adjunct form in Slot 1 of a Referential it is necessary to prefix the `Cp` form by an epenthetic vowel, as follows:",
   "edfd56133b": "If using a `Cp` Suppletive Adjunct form in Slot 1 of a Combination Referential from [Sec. 9.5](09#Sec9_5) above, the `Cp` value must be preceded by **a**- to avoid the adjunct being mistaken for a Concatenated Formative.",
-  "0c996e4520": "If using a `Cp` Suppletive Adjunct form in Slot 1 of a Single- or Dual-Referential from [Sec. 9.1](09#Sec9_1) and [Sec. 9.2](09#Sec9_2) above, the `Cp` value must be preceded by the word-initial diphthong **üo**- to avoid the adjunct being mistaken for a Modular Adjunct.",
-  "c4ca4238a0": "1",
-  "c81e728d9d": "2",
-  "eccbc87e4b": "3",
-  "a87ff679a2": "4",
-  "e4da3b7fbb": "5",
-  "1679091c5a": "6"
+  "0c996e4520": "If using a `Cp` Suppletive Adjunct form in Slot 1 of a Single- or Dual-Referential from [Sec. 9.1](09#Sec9_1) and [Sec. 9.2](09#Sec9_2) above, the `Cp` value must be preceded by the word-initial diphthong **üo**- to avoid the adjunct being mistaken for a Modular Adjunct."
 }

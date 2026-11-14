@@ -24,7 +24,6 @@
   "c514eeae77": "Final Adjunct",
   "bf63f93586": "NARRATIVE <Term code=\"drr\" />",
   "693ba5a6ce": "default register",
-  "26aeabd0c9": "—",
   "755b91d50d": "DISCURSIVE <Term code=\"dsv\" />",
   "f950835486": "direct speech",
   "925cc8d295": "ha",
@@ -47,7 +46,6 @@
   "dd5fd8cff4": "(hui)",
   "3fe709cbd1": "CARRIER-END <Term code=\"end\" />",
   "afb20615d0": "end of term/phrase governed by carrier stem/adjunct[^3]",
-  "2a6f2e950f": "∅",
   "a87c96976b": "(hü)",
   "ccb8150db4": "[^2]: If the identification of the preceding referent is not a proper name, use <Term code=\"pnt\" /> register instead.\n[^3]: Use the <Term code=\"end\" /> adjunct marker for any register where the referent within the register clause is a proper name or a foreign word/phrase.",
   "b3c7492bb4": "Since Sec. 1.5 external juncture rules do not apply to foreign names/words, insert a pause after uttering the name/words prior to the <Term code=\"end\" /> adjunct **hü** or <Term code=\"spf\" /> final adjunct **hiu**, or pronounce the last word of the proper name/phrase with low tone.",
@@ -232,10 +230,6 @@
   "6728beb6c5": "`Cz`",
   "8e91f45883": "`VxCs` …",
   "f1ee6772da": "`Vz`",
-  "c4ca4238a0": "1",
-  "c81e728d9d": "2",
-  "eccbc87e4b": "3",
-  "a87ff679a2": "4",
   "f38e4ed107": "`Cp`",
   "91915a7a5f": "`Vc`"
 }

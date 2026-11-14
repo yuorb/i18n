@@ -16,7 +16,6 @@
   "22419f169b": "Note that the particular unspoken covert and overt senses (shown by the numerals 1 and 2 in the above analyses) are specific to any given verb and must be subjectively learned by the listener, i.e., a speaker of English must learn that *to hand* means to GIVE by MEANS of one’s hand, but *to shoulder* does not mean to GIVE by MEANS of one’s shoulder.",
   "1beb9317fe": "Thus, while conflation of verbs presents a potential opportunity for instantiating verbs with patterns of overt and covert meaning, the lack of systemization prevents one from knowing with certainty what pattern to use when attempting to interpret the usage of a verb form.",
   "5c559bceee": "New Ithkuil systemizes verb conflation into a productive scheme, in which any formative can be concatenated directly with another formative (termed the parent formative). The operational sense of the concatenated formative and its semantic relation to the parent formative is conveyed by its case-affix in Slot IX. The concatenated formative is placed immediately preceding the parent formative, and is structured as a regular formative, able to take any and all morphology as appropriate and semantically permissible for the concatenated pair as a whole. The concatenated formative also shows one of the following eight `Cc` values in Slot I to indicate that it and the following formative constitute a concatenated pair. The meaning of the different `Cc` values is explained below the table.",
-  "d41d8cd98f": "",
   "fd8d5827a9": "Slot IX = `Vf`",
   "6b31a4dfba": "+ w-form of `Ca` shortcut\\*",
   "0fbbf56e3f": "+ y-form of `Ca` shortcut\\*",
@@ -107,13 +106,9 @@
   "6f126a7f85": "When using the affix-form of the above fourteen roots, to specify the Stem 2 meaning of the respective root, add -**w** to the affix form, e.g., -**tr** becomes -**trw**, -**kl** becomes -**klw**. To specify the Stem 3 meaning of the respective root, add -**y** to the affix form, e.g., -**tr** becomes -**try**, -**kl** becomes -**kly**.",
   "2c58a68c7e": "Spatial Position/Location Roots",
   "38b81270b2": "Stem 1",
-  "390e723d0d": "<Term code=\"bsc\" />",
   "d13bbb9dad": "spatial position of an entity; to be situated/located at",
-  "cf94a2ca46": "<Term code=\"cte\" />",
   "ecb2050ed9": "The act of physically occupying a/the position/location in space; to physically occupy a/the position in space",
-  "9b22299472": "<Term code=\"csv\" />",
   "5955c78a96": "A/the position/location in space occupied by an entity; to be a/the position/location in space",
-  "677df4642f": "<Term code=\"obj\" />",
   "72cbc60c59": "The entity situated/located at; to be that which is situated/located at",
   "e87955cfd7": "Stem 2",
   "531d97f46d": "Stem 3",
@@ -132,8 +127,5 @@
   "55e3d36427": "Simple position",
   "06644a8503": "Double position combination",
   "7fe62e0275": "Triple position combination",
-  "6651bc5bc2": "BETWEEN/AMIDST/AMONG",
-  "c4ca4238a0": "1",
-  "c81e728d9d": "2",
-  "eccbc87e4b": "3"
+  "6651bc5bc2": "BETWEEN/AMIDST/AMONG"
 }

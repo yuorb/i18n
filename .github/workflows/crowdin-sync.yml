@@ -44,7 +44,8 @@ jobs:
           download_translations: true
           create_pull_request: true
           skip_untranslated_files: true # 整篇未翻译的语种（es/fr/ja）不导出
-          skip_untranslated_strings: true # 未翻译的串不写占位英文
+          # 注意：Crowdin CLI 不允许与 skip_untranslated_strings 同时开启
+          # （会报 "You cannot skip strings and files at the same time"）
           localization_branch_name: 'crowdin-translations'
           pull_request_title: 'chore: sync translations from Crowdin'
           project_id: ${{ secrets.CROWDIN_PROJECT_ID }}
